@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PostsWithRoom</string>
+    <string name="textview">TextView</string>
+    <string name="title">title</string>
+    <string name="insert">insert</string>
+    <string name="body">body</string>
+    <string name="get">get</string>
+</resources>
